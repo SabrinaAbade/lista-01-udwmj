@@ -2,7 +2,8 @@
 
 ### Código JavaScript ###
 
-#Nomes:# Eliseu Pereira da Silvsa, Daniel Amorim Monteiro Barbosa, Paulo Henrique Gonçalves Botelho da Silva, Sabrina Abade Fernandes Ribeiro. 
+# Nomes: #
+Eliseu Pereira da Silvsa, Daniel Amorim Monteiro Barbosa, Paulo Henrique Gonçalves Botelho da Silva, Sabrina Abade Fernandes Ribeiro. 
 
 O código em JavaScript calcula a média de três notas de um aluno.
 
