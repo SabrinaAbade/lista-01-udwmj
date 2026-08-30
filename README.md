@@ -2,7 +2,13 @@
 
 ## Código JavaScript ##
 
-Nomes: Eliseu Pereira da Silva, Daniel Amorim Monteiro Barbosa, Paulo Henrique Gonçalves Botelho da Silva, Sabrina Abade Fernandes Ribeiro. 
+MEMBROS DO GRUPO: 
+
+- Daniel Amorim Monteiro Barbosa - 12319235
+- Eliseu Pereira da Silva - 124220479
+- Gabriel Augusto R. S. R. Guimarães - 125111405115
+- Paulo Henrique Gonçalves Botelho da Silva - 126221444118
+- Sabrina Abade Fernandes Riberio - 124222032
 
 O código em JavaScript calcula a média de três notas de um aluno.
 
