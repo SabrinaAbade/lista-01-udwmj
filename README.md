@@ -1,7 +1,5 @@
 # lista-01-udwmj
 
-## Código JavaScript ##
-
 MEMBROS DO GRUPO: 
 
 - Daniel Amorim Monteiro Barbosa - 12319235
@@ -9,6 +7,8 @@ MEMBROS DO GRUPO:
 - Gabriel Augusto R. S. R. Guimarães - 125111405115
 - Paulo Henrique Gonçalves Botelho da Silva - 126221444118
 - Sabrina Abade Fernandes Riberio - 124222032
+
+## Código JavaScript ##
 
 O código em JavaScript calcula a média de três notas de um aluno.
 
